@@ -1,0 +1,3 @@
+Saving/Loading Maps
+Choosing to play the game will load the map stored in ‘map-1.txt’. You can replace this with any map created in the map editor. The map editor will save a map to ‘map.txt’ when the ‘s’ button is pressed.
+A map is 28 tiles wide by 31 tiles tall with the current map being stored in a 2d array named ‘map’.
