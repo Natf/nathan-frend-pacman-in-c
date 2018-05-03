@@ -1,4 +1,4 @@
-A simple pacman game written in C using OpenGL
+A simple pacman game written in C++ using OpenGL
 
 Compiling and running the game
 To compile the game simply run the command ‘make’ in terminal. To run the game run ‘./pacman’.
