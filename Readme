@@ -1,3 +1,15 @@
+A simple pacman game written in C using OpenGL
+
+Compiling and running the game
+To compile the game simply run the command ‘make’ in terminal. To run the game run ‘./pacman’.
+
+Controls
+Arrows Keys – Move pacman in that direction/ navigate title screen menu.
+Space – Confirm selected title screen option.
+‘q’ – quits the game.
+‘s’ – saves the map to ‘map.txt’ when in the map editor and closes the map editor. ‘o’/’p’ – cycle through selected map piece when in the map editor.
+Mouse – move and press left click to place selected map piece when in the map editor.
+
 Saving/Loading Maps
 Choosing to play the game will load the map stored in ‘map-1.txt’. You can replace this with any map created in the map editor. The map editor will save a map to ‘map.txt’ when the ‘s’ button is pressed.
 A map is 28 tiles wide by 31 tiles tall with the current map being stored in a 2d array named ‘map’.
